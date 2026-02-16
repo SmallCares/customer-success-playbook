@@ -1,4 +1,5 @@
 ## [Home](https://smallcares.github.io/)
+
 # Customer Success Plan
 
 ## 1. Customer Overview
