@@ -1,4 +1,4 @@
-### [Home](https://smallcares.github.io/)
+## [Home](https://smallcares.github.io/)
 # Customer Success Playbook
 
 A practical collection of templates and guides to drive outcomes across onboarding, adoption, value, renewal, and expansion.
