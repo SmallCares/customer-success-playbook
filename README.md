@@ -17,7 +17,7 @@ This space is not for code — it’s for sharing:
 - Tools and ideas that have helped customers succeed  
 
 ### Connect with me
-- **LinkedIn:** *Add your link here*  
-- **Website:** *Optional*  
+- **LinkedIn:** *(https://www.linkedin.com/in/sandyshailer/)*  
+   
 
 Thanks for stopping by!
