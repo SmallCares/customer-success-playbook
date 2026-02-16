@@ -4,7 +4,7 @@
 A practical collection of templates and guides to drive outcomes across onboarding, adoption, value, renewal, and expansion.
 
 ## Contents
-- `templates/success-plan-template.md` — Success Plan Template
+- [Success Plan Template](https://github.com/SmallCares/customer-success-playbook/blob/main/customer-success-playbook/templates/success-plan-template.md)
 - `templates/engagement-plan.md` — Cadence, touchpoints, and roles
 - `templates/renewal-playbook.md` — Renewal Playbook Template
 - `examples/success-plan-example.md` — Example (anonymised)
